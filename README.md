@@ -23,7 +23,7 @@ The goal is to explore the customization possibilities of NitroSense and give th
 ## Compatibility
 
 - **Tested device:** Acer Nitro V15 ANV15-52.
-- **Target software version:** NitroSense 5.1.392.6 for the original theme modification.
+- **Target software version:** NitroSense 5.1.392 for the original theme modification.
 - **Status:** Experimental.
 
 Compatibility with other Acer Nitro devices, other NitroSense versions, and future software updates has not been confirmed.
